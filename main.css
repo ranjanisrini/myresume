@@ -1,0 +1,18 @@
+body {
+  background: rgb(204,204,204); 
+}
+img {
+  border-radius: 50%;
+}
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 20px;
+  text-align:left;
+  margin: 3px 2px;
+  border-radius: 20%;
+}
+
+.fa:hover {
+    opacity: 0.3;
+}
