@@ -42,19 +42,26 @@ h4 {
     margin-right: 0;
     font-style: oblique;
     font-family: serif;
-    color: #00BFFF;
+    color:#1569C7;
     text-align: center;
 }
 
 h3 {
-    padding: 0.3500em;
-    color: #00BFFF;
+    color:#1569C7;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-style: oblique;
+    font-family: serif;
+    font-size: 1.5em;
 }
 
 .fa {
     padding: 1.2500em;
     font-size: 0.9375em;
-    width: 1.2500em;
+    width: 1.2500em
     text-align: left;
     margin: 0.2100 0.2100em;
     border-radius: 15%;
@@ -62,6 +69,10 @@ h3 {
 
 .fa:hover {
     opacity: 0.3;
+}
+
+a {
+      color:#1569C7;
 }
 
 .image {
