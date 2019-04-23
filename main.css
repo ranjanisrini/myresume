@@ -150,12 +150,3 @@ h3 {
     width: 15.625em;
     text-align: Center;
 }
-
-table.table-bordered {
-    border: 1px solid blue;
-    margin-top: 20px;
-}
-
-table.table-bordered > tbody > tr > td {
-    border: 1px solid blue;
-}
